@@ -17,5 +17,8 @@ cd hypr_dots
 cp -r .config/* ~/.config/
 ```
 
-![image](https://github.com/user-attachments/assets/8cf75c03-ae4b-46ff-9f34-5df740ff62f5)
+<details>
+  
+</details>
+
  
