@@ -1,11 +1,21 @@
 # hypr_dots
 
 
-Distro - Arch linux  
-WM - Hyprland  
-notify - mako  
-bar - waybar  
-terminal - foot   
+My Hyprland dots
+
+
+|    Distro     |                         Arch linux                          |
+| :-----------: | :---------------------------------------------------------: |
+|      WM       |                          Hyprland                           |
+| Notifications |                            mako                             |
+|      Bar      |                           waybar                            |
+|   Launcher    |                            wofi                             |
+|   Terminal    |                            foot                             |
+|     Shell     |                            fish                             |
+|     Icon      |   [Delight-orange-dark](https://www.pling.com/p/1532276)    |
+|   GTK theme   | [Flat-Remix-GTK-Grey-Dark](https://www.pling.com/p/1214931) |
+|    Cursor     | [Capitaine-cursors-light](https://www.pling.com/p/1148692)  |
+
 ### Installation
 ```shell
 sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd mako foot waybar hyprland noto-fonts-emoji
