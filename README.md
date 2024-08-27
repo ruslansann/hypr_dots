@@ -7,11 +7,11 @@ notify - mako
 bar - waybar  
 terminal - foot   
 ### Installation
-```bash
-sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd mako foot waybar hyprland
+```shell
+sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd mako foot waybar hyprland noto-fonts-emoji
 ```
 
-```bash
+```shell
 git clone https://github.com/hyuka1/hypr_dots.git
 cd hypr_dots
 cp -r .config/* ~/.config/
