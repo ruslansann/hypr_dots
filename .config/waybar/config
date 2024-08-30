@@ -7,9 +7,8 @@
     "modules-left": ["hyprland/workspaces", "hyprland/language"],
     "modules-center": ["clock", "custom/weather"],
     "modules-right": ["tray", "cpu", "memory", "pulseaudio", "backlight", "battery"],
-
-
-
+    
+    
     "hyprland/workspaces": {
         "persistent-workspaces": {
             "*": 6        
