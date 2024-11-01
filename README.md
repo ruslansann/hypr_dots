@@ -29,6 +29,13 @@ cd hypr_dots
 cp -r .config/* ~/.config/
 ```
 
+### alias - ~/.config/fish/functions/  
+```shell
+sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd mako foot waybar hyprland noto-fonts-emoji python python-pip python-pipx powertop 
+yay -S swayosd-git auto-cpufreq 
+pip install requests --break-system-packages
+``` 
+
 <details>
   <summary>Photos</summary>
 
@@ -36,14 +43,6 @@ cp -r .config/* ~/.config/
   ![image](https://github.com/hyuka1/hypr_dots/blob/main/preview/photo2.png)
   
 </details>  
-
-
-### alias - ~/.config/fish/functions/  
-```shell
-sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd mako foot waybar hyprland noto-fonts-emoji python python-pip python-pipx powertop 
-yay -S swayosd-git auto-cpufreq 
-pip install requests --break-system-packages
-``` 
 
 
 P.S 
