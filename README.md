@@ -37,6 +37,16 @@ cp -r .config/* ~/.config/
   
 </details>  
 
-P.S Vs code theme name - [Theme](https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme)
+
+### alias - ~/.config/fish/functions/
+<details>  
+```shell
+alias --save ping=gping
+```
+</details>  
+
+
+P.S 
+Vs code theme name - [Theme](https://marketplace.visualstudio.com/items?itemName=tal7aouy.theme)
 
  
