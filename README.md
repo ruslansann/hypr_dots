@@ -38,12 +38,12 @@ cp -r .config/* ~/.config/
 </details>  
 
 
-### alias - ~/.config/fish/functions/
-<details>  
+### alias - ~/.config/fish/functions/  
 ```shell
-alias --save ping=gping
-```
-</details>  
+sudo pacman -S ttf-jetbrains-mono ttf-jetbrains-mono-nerd mako foot waybar hyprland noto-fonts-emoji python python-pip python-pipx powertop 
+yay -S swayosd-git auto-cpufreq 
+pip install requests --break-system-packages
+``` 
 
 
 P.S 
