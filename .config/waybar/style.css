@@ -2,6 +2,8 @@
     border: none;
     border-radius: 0;
     font-family: JetBrainsMono Nerd Font;
+    /* font-family: UbuntuMono Nerd Font;
+    font-size: 16px; */
     min-height: 20px;
 }
 
@@ -100,7 +102,6 @@ window#waybar.hidden {
     transition: none;
     color: #ffffff;
     background: #383c4a;
-
 }
 
 #cpu {

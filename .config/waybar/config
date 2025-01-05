@@ -82,7 +82,7 @@
     },
 
     "tray": {
-        "icon-size": 16,
-        "spacing": 8
-    },
+	    "icon-size": 16,
+	    "spacing": 8
+    }
 }
